@@ -7,6 +7,7 @@ samples are include when and where it makes sense.
 Some things and stuff..
 
 - [ZFS Creation]{#zfs-create}
+- [Quick start](#quick-start)
 
 
 ## ZFS Create
