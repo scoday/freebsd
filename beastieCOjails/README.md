@@ -6,6 +6,8 @@ To powerfully serve in an organized, logical manner.
 - [ZFS Creation](#zfs-create)
 - [Install EZJail](#install-ezjail)
 - [Modify ezjail.conf](#modify-ezjail-config)
+- [Install Base Jail](#install-base-jail)
+- [Flavor or Profile](#flavor-or-profile)
 
 ## Synopsis
 The aim of this document is to somewhat streamline and bring sense to creating jails. Code
@@ -57,7 +59,7 @@ then create a new file. For this use case there are only four lines, outside com
 The last one is important so that you can use the closest repo based on your location. The 
 example file in the repo has a URL or you can just google for FreeBSD mirrors.
 
-## Install ezjail
+## Install Base Jail
 Get ready for your coffee break, this make take some time depending on your setup. Basically
 follow these steps and let it run.
 
