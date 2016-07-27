@@ -5,7 +5,7 @@ To powerfully serve in an organized, logical manner.
 - [Background](#background)
 - [ZFS Creation](#zfs-create)
 - [Install EZJail](#install-ezjail)
-- [Modify ezjail.conf](#modify-ezjail.conf)
+- [Modify ezjail.conf](#modify-ezjail-config)
 
 ## Synopsis
 The aim of this document is to somewhat streamline and bring sense to creating jails. Code
@@ -43,7 +43,7 @@ Basically either use ports or do a pkg install and get the ezjail on there.
     [1/1] Installing ezjail-3.4.2...
     [1/1] Extracting ezjail-3.4.2: 100%
 
-## Modify ezjail.conf
+## Modify Ezjail Config
 It is probably best to just copy /usr/local/etc/ezjail.conf to /usr/local/etc/ezjail.conf.bak
 then create a new file. For this use case there are only four lines, outside comments.
 
