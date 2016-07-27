@@ -4,7 +4,7 @@ A way to use a box with a drive in it, or plugged into it for Time Machine on OS
 ## Table of Contents
 - [Background](#background)
 - [Installation](#installation)
--- [Packages](#packages)
+- [Packages](#packages)
 ## Background
 This is an idea which has been around for a while but I did not have time to dig
 into it and see how it worked. Finally I had the determination to replace an 
