@@ -1,4 +1,4 @@
-# FreeBSD: The power to serve
+# BeastieCO: The organization with the power to serve.
 Place to store unique FreeBSD configs, etc.
 
 # Table of Contents
