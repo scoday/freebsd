@@ -38,7 +38,7 @@ update() {
 fix() {
     cp /etc/resolv.conf $ZFSZONE/etc/resolv.conf
     cp /etc/localtime $ZFSZONE/etc/localtime
-    echo "hostname=$ZONE" > $ZFSZONE/etc/rc.conf
+    echo "hostname=$ZONE.$FQDN" > $ZFSZONE/etc/rc.conf
 }
 
 jailentry() {
