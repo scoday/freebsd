@@ -10,3 +10,6 @@ This is a grassroots effort to try and make FreeBSD more enterprise ready. There
 
 ## KumoBSD
 This project is just what it sounds like, it can be found over [here](https://github.com/scoday/freebsd/tree/master/KumoBSD)
+
+## Preferences
+This area will also contain my preferences for .bashrc, .vimrc, and .bash_profile (for OSX/Linux or whatever).
